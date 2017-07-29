@@ -1,0 +1,23 @@
+{
+  "name": "basic-seeder",
+  "version": "1.0.0",
+  "description": "Add description here",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/main.js"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "js"
+  ],
+  "author": "Christopher Neuwirth",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^4.0.0"
+  },
+  "devDependencies": {
+    "husky": "^0.13.4"
+  }
+}
